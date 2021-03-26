@@ -70,3 +70,4 @@ webencodings==0.5.1
 Werkzeug==1.0.1
 wincertstore==0.2
 zipp==3.4.1
+pypiwin32==223
